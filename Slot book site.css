@@ -1,0 +1,56 @@
+html {
+    background-color: rgb(41, 98, 255);
+}
+
+header, .full-width {
+  width: 100%;
+  background: rgb(40, 72, 255);
+  color: rgb(221, 221, 221);
+  font-style: italic;
+  font: oblique;
+  padding-bottom: 1%;
+}
+.wrap {
+  width: 35%;
+  max-width: 100em;
+  margin: 0 auto;
+  padding: 0.5em 0.625em;
+}
+.image {
+    width : 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(40, 72, 255);
+}
+.generalFont {
+    font: oblique;
+    outline: 5px solid rgb(221, 221, 221);
+    border-color: black;
+    color: rgb(221, 221, 221);
+}
+.generalFont2 {
+  margin-left: 3%;
+  font: oblique;
+  color: rgb(221, 221, 221);
+}
+.listFont {
+    font: oblique;
+    margin-left: 20%;
+    border-color: black;
+    color: rgb(226, 226, 226);
+}
+a:visited {
+  color: rgb(224, 224, 224);
+}
+.left {
+  float: left;
+  margin-left: 5%;
+}
+.right{
+  float: right;
+  margin-right: 30%;
+}
+a {
+  color: rgb(224, 224, 224);
+}
